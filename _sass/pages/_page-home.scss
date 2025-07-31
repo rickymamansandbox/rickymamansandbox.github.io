@@ -1,0 +1,115 @@
+.page-home {
+  .content {
+    text-align: center;
+    span {
+      font-size: 2.4rem;
+      font-weight: 600;
+      color: $primary;
+    }
+    h2 {
+      font-size: 2.4rem;
+      line-height: 1.2;
+      font-weight: 600;
+      margin-bottom: 20px;
+      color: $white;
+    }
+    h3 {
+      font-size: 1.6rem;
+      line-height: 1.4;
+      font-weight: 600;
+      margin-bottom: 20px;
+      color: $primary;
+    }
+    > p {
+      &:first-of-type {
+        font-size: 1rem;
+        line-height: 1.5;
+        margin-top: 24px;
+        margin-bottom: 16px;
+        font-weight: 400;
+        color: $white-offset;
+      }
+    }
+
+    .do {
+      margin-top: 24px;
+      margin-bottom: 24px;
+      padding: 16px;
+      color: $white-offset;
+      font-size: 1rem;
+      line-height: 1.5;
+      font-weight: 400;
+
+      ul {
+        list-style-type: none;
+        padding-left: 20px;
+        margin-bottom: 0;
+
+        li {
+          padding-left: 4rem;
+          background-image: url(../../images/illustrations/do.svg);
+          background-position: 0 0;
+          background-size: 3rem 3rem;
+          background-repeat: no-repeat;
+          margin-bottom: 24px;
+          min-height: 3rem;
+        }
+      }
+    }
+    .dont {
+      margin-top: 24px;
+      margin-bottom: 24px;
+      padding: 16px;
+      color: $white-offset;
+      font-size: 1rem;
+      line-height: 1.5;
+      font-weight: 400;
+
+      ul {
+        list-style-type: none;
+        padding-left: 20px;
+        margin-bottom: 0;
+
+        li {
+          padding-left: 4rem;
+          background-image: url(../../images/illustrations/dont.svg);
+          background-position: 0 0;
+          background-size: 3rem 3rem;
+          background-repeat: no-repeat;
+          margin-bottom: 24px;
+          min-height: 3rem;
+        }
+      }
+    }
+  }
+  .team {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    text-align: left;
+
+    .team-name {
+      font-family: $font-family-heading;
+      font-size: 1rem;
+      font-weight: 600;
+      color: $primary;
+      margin-top: 8px;
+    }
+    .team-quote {
+      font-size: 1.4rem;
+      line-height: 1.5;
+      color: $white;
+      margin-top: 8px;
+      margin-bottom: 16px;
+    }
+    .team-description {
+      font-size: 1rem;
+      line-height: 1.5;
+      color: $white-offset;
+      margin-bottom: 24px;
+    }
+    p {
+      color: $white-offset;
+    }
+  }
+}

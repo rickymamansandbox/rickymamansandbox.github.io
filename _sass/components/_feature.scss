@@ -1,0 +1,49 @@
+.feature-container {
+  border-radius: 24px;
+  padding: 48px;
+  background-color: $navy-dark;
+
+  @include media-breakpoint-up(sm) {
+    padding: 24px;
+  }
+
+  h2 {
+    color: $white;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .feature {
+    height: 100%;
+    padding: 24px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    .feature-image {
+      flex: 0 0 auto;
+      display: flex;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    img {
+      width: 100%;
+      height: auto;
+    }
+    .feature-title {
+      font-family: "Poppins", sans-serif;
+      font-size: 24px;
+      font-weight: 600;
+      margin-bottom: 10px;
+      color: $primary;
+    }
+    .feature-content {
+      color: $white-offset;
+      margin-bottom: 0;
+      margin-top: auto;
+      margin-bottom: 24px;
+    }
+  }
+}

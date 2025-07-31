@@ -1,0 +1,12 @@
+.page-myth {
+  .content {
+    > p {
+      &:first-of-type {
+        font-size: 1.6rem;
+        line-height: 1.4;
+        font-weight: 400;
+        color: $primary-light;
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+.social {
+  display: block;
+  img {
+    width: 20px;
+    height: 20px;
+    filter: brightness(0) saturate(100%) invert(64%) sepia(62%) saturate(348%) hue-rotate(6deg) brightness(88%) contrast(87%);
+  }
+  a {
+    padding: 10px;
+    display: inline-block;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}

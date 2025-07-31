@@ -1,0 +1,15 @@
+main:
+  - name: "Individual Treasury"
+    url: "/individual-treasury/"
+    weight: 1
+  - name: "Can BTC Replace USD?"
+    url: "/myths/"
+    weight: 2
+
+footer:
+  - name: "Individual Treasury"
+    url: "/individual-treasury/"
+    weight: 1
+  - name: "Can BTC Replace USD?"
+    url: "/myths/"
+    weight: 2

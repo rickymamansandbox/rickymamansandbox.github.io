@@ -34,11 +34,11 @@ $sub-footer-text-color: $navy-dark;
 // 1. Include Bootstrap functions first
 @import "bootstrap/functions";
 
-// 2. Include our variable overrides here
-@import "bootstrap-variables";
-
-// 3. Include main bootstrap variables and functions
+// 2. Include main bootstrap variables and functions
 @import "bootstrap/variables";
+
+// 3. Include our variable overrides here (after Bootstrap variables)
+@import "bootstrap-variables";
 @import "bootstrap/variables-dark";
 @import "bootstrap/maps";
 @import "bootstrap/mixins";

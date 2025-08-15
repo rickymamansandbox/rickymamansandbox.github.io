@@ -1,5 +1,5 @@
 main:
-  - name: "Individual Treasury"
+  - name: "Public Training & Certification"
     url: "/individual-treasury/"
     weight: 1
   - name: "Can BTC Replace USD?"
@@ -7,7 +7,7 @@ main:
     weight: 2
 
 footer:
-  - name: "Individual Treasury"
+  - name: "Public Training & Certification"
     url: "/individual-treasury/"
     weight: 1
   - name: "Can BTC Replace USD?"

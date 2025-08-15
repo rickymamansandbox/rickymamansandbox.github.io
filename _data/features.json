@@ -1,7 +1,7 @@
 [
   {
     "title": "Company Treasury",
-    "description": "Let’s build your company’s Bitcoin strategy with confidence. Your future treasury starts here.",
+    "description": "Let's build your company's Bitcoin strategy with confidence. Your future treasury starts here.",
     "cta": {
       "class": "primary",
       "text": "Book a free 1 hour in-house training",
@@ -13,11 +13,11 @@
   },
   {
     "title": "Individual Treasury",
-    "description": "Take the first step toward securing your personal or family wealth with Bitcoin—it’s easier than you think.",
+    "description": "You can start with yourself. We have premium, comprehensive training on personal and small-organization bitcoin treasury — complete with written and oral certification exams you won't get from self-learning.",
     "cta": {
       "class": "secondary",
-      "text": "Try individual Training",
-      "url": "/contact"
+      "text": "Public Training & Certification",
+      "url": "/individual-treasury"
     },
     "image": {
       "url": "images/features/individual_treasury.svg"

@@ -5,7 +5,7 @@ description: We help smart leaders outperform competitors by accumulating bitcoi
 intro_image: "images/illustrations/apocalypse.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
 # Multiply Your Profits, Like a Smart Leader.

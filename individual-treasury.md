@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-#  Unsure how the company owner feels about bitcoin? Treasure Bitcoin Yourself.
+#  Be The Example. Start Your Personal Bitcoin Treasury.

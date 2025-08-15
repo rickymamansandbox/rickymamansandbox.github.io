@@ -4,7 +4,7 @@ date: 2018-12-20T13:44:30+10:00
 image: "images/team/faizal.svg"
 quote: "“Bitcoin is My Lifeboat in Uncertain Waters“"
 linkedinurl: "https://www.linkedin.com/"
-promoted: true
+promoted: false
 weight: 2
 ---
 

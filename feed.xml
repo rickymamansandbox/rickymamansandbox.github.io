@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>Bahtera blog</title>
+  <subtitle>Bahtera is a Bitcoin treasury consultancy for companies and leaders in Indonesia, Malaysia and Singapore, offering executive education, treasury policy, custody architecture, tax coordination and audit-ready reporting.</subtitle>
+  <link href="https://rickymamansandbox.github.io/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://rickymamansandbox.github.io/blog/" rel="alternate" type="text/html"/>
+  <id>https://rickymamansandbox.github.io/feed.xml</id>
+  <updated>2026-10-18T07:08:17+07:00</updated>
+  <author><name>Bahtera</name><uri>https://rickymamansandbox.github.io/</uri></author>
+  <icon>https://rickymamansandbox.github.io/images/logo/logo-square.png</icon>
+  <entry>
+    <title>Before the treasury conversation, write the brief.</title>
+    <link href="https://rickymamansandbox.github.io/blog/preparing-the-treasury-conversation/" rel="alternate" type="text/html"/>
+    <id>https://rickymamansandbox.github.io/blog/preparing-the-treasury-conversation/</id>
+    <published>2026-09-28T00:00:00+07:00</published>
+    <updated>2026-09-28T00:00:00+07:00</updated>
+    <category term="Leadership"/>
+    <summary>A useful internal discussion starts with a shared question, a clear purpose, and the right people in the room.</summary>
+    <content type="html">&lt;h2 id=&quot;start-with-the-question&quot;&gt;Start with the question&lt;/h2&gt;
+
+&lt;p&gt;An internal discussion becomes much more useful when everyone knows what it is meant to resolve. “Should we explore Bitcoin treasury?” is a different meeting from “Who will review our proposed operating process?” A short brief makes that difference explicit.&lt;/p&gt;
+
+&lt;p&gt;Begin with one paragraph explaining why the topic is on the agenda. Describe the organisational question in your own words. Leave room for disagreement: the purpose of the brief is to make the discussion clearer, not to predetermine its conclusion.&lt;/p&gt;
+
+&lt;h2 id=&quot;identify-who-needs-to-contribute&quot;&gt;Identify who needs to contribute&lt;/h2&gt;
+
+&lt;p&gt;List the people whose work would be affected by the proposal. That might include leadership, finance, operations, technology, and external advisers. Give each participant a specific question to consider before the meeting.&lt;/p&gt;
+
+&lt;p&gt;Someone responsible for daily operations may see a handover issue that is absent from a high-level proposal. A finance colleague may need a clearer description of the records the process would produce. Bringing these perspectives together early helps define the actual work.&lt;/p&gt;
+
+&lt;h2 id=&quot;separate-what-you-know-from-what-you-need-to-learn&quot;&gt;Separate what you know from what you need to learn&lt;/h2&gt;
+
+&lt;p&gt;A helpful brief has two short lists: existing information and open questions. Put current processes, internal constraints, and named owners in the first list. Put uncertainties and requests for specialist input in the second.&lt;/p&gt;
+
+&lt;p&gt;Avoid treating an assumption as an agreed fact. If a point needs review, assign someone to follow it up and record the outcome. This turns uncertainty into a visible piece of work.&lt;/p&gt;
+
+&lt;h2 id=&quot;define-the-next-decision&quot;&gt;Define the next decision&lt;/h2&gt;
+
+&lt;p&gt;End the brief with the decision the meeting should enable. It could be agreeing an education session, appointing a working group, or commissioning a more detailed review. Keep that step proportionate to the information available.&lt;/p&gt;
+
+&lt;p&gt;After the meeting, update the brief with the decision, its owner, and the questions that remain. The document then becomes a useful starting point for the next conversation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/services/policy_design/&quot;&gt;Explore our approach to treasury policy&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Make room for better questions.</title>
+    <link href="https://rickymamansandbox.github.io/blog/planning-a-team-workshop/" rel="alternate" type="text/html"/>
+    <id>https://rickymamansandbox.github.io/blog/planning-a-team-workshop/</id>
+    <published>2026-09-28T00:00:00+07:00</published>
+    <updated>2026-09-28T00:00:00+07:00</updated>
+    <category term="Education"/>
+    <summary>A practical structure for a team learning session that ends with useful next steps.</summary>
+    <content type="html">&lt;h2 id=&quot;ask-before-you-teach&quot;&gt;Ask before you teach&lt;/h2&gt;
+
+&lt;p&gt;Before planning a team workshop, invite participants to share the questions they want answered. Some may be starting from the basics, while others are already thinking about implementation. Seeing those differences helps the facilitator shape the session.&lt;/p&gt;
+
+&lt;p&gt;Group the questions into themes. Keep a separate list for topics that need input beyond the workshop, rather than squeezing every question into the agenda.&lt;/p&gt;
+
+&lt;h2 id=&quot;agree-a-learning-objective&quot;&gt;Agree a learning objective&lt;/h2&gt;
+
+&lt;p&gt;Choose an objective that participants can recognise at the end of the session. “Develop a shared vocabulary for our next internal discussion” is easier to assess than “Understand everything about Bitcoin.”&lt;/p&gt;
+
+&lt;p&gt;A narrow objective also creates room for participation. The facilitator can spend time checking understanding instead of moving through too much material.&lt;/p&gt;
+
+&lt;h2 id=&quot;connect-the-discussion-to-the-team&quot;&gt;Connect the discussion to the team&lt;/h2&gt;
+
+&lt;p&gt;Use the team’s own questions to structure the conversation. Ask participants what a concept would mean for their role, which assumptions remain unclear, and what information they would need before taking part in a decision.&lt;/p&gt;
+
+&lt;p&gt;Keep learning and decision-making distinct on the agenda. Attending a workshop does not imply agreement with a proposal. People should feel able to ask basic questions and challenge assumptions.&lt;/p&gt;
+
+&lt;h2 id=&quot;leave-with-a-short-record&quot;&gt;Leave with a short record&lt;/h2&gt;
+
+&lt;p&gt;Close with three lists: what became clearer, what remains unresolved, and what the team wants to do next. Assign follow-up questions to named owners where appropriate.&lt;/p&gt;
+
+&lt;p&gt;Share that record with participants. It can become the starting brief for another learning session or a separate implementation discussion.&lt;/p&gt;
+
+&lt;h2 id=&quot;build-the-next-session-from-the-first&quot;&gt;Build the next session from the first&lt;/h2&gt;
+
+&lt;p&gt;Ask which parts of the workshop were useful and which need more explanation. Use that feedback to choose the next topic. A sequence of focused conversations can be easier for a team to absorb than one crowded presentation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/individual-treasury/&quot;&gt;Explore education for individuals&lt;/a&gt; or &lt;a href=&quot;/contact/&quot;&gt;prepare a team enquiry&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>A process is only as clear as its handover.</title>
+    <link href="https://rickymamansandbox.github.io/blog/documenting-operational-responsibilities/" rel="alternate" type="text/html"/>
+    <id>https://rickymamansandbox.github.io/blog/documenting-operational-responsibilities/</id>
+    <published>2026-09-28T00:00:00+07:00</published>
+    <updated>2026-09-28T00:00:00+07:00</updated>
+    <category term="Operations"/>
+    <summary>How a simple responsibility map can make implementation discussions more concrete.</summary>
+    <content type="html">&lt;h2 id=&quot;follow-one-task-from-beginning-to-end&quot;&gt;Follow one task from beginning to end&lt;/h2&gt;
+
+&lt;p&gt;A process document can sound complete while still leaving people unsure what to do. One way to review it is to follow a single task through the proposed workflow: who starts it, who checks it, who records the outcome, and who handles an exception?&lt;/p&gt;
+
+&lt;p&gt;Write those steps in everyday language. A colleague who did not draft the document should be able to describe what happens next without guessing.&lt;/p&gt;
+
+&lt;h2 id=&quot;give-each-step-an-owner&quot;&gt;Give each step an owner&lt;/h2&gt;
+
+&lt;p&gt;A list of departments is less useful than a clear description of responsibilities. Identify the role that performs the task, the role that reviews it, and the person or group that resolves an unresolved question.&lt;/p&gt;
+
+&lt;p&gt;The aim is to make accountability understandable. If two teams both think the other owns a step, the document needs another pass.&lt;/p&gt;
+
+&lt;h2 id=&quot;make-handovers-visible&quot;&gt;Make handovers visible&lt;/h2&gt;
+
+&lt;p&gt;For every handover, describe the information passed along and how the receiving person knows the task is ready. A completed action and a documented action are not always the same thing.&lt;/p&gt;
+
+&lt;p&gt;Consider how someone joining the team would find the relevant records. Consistent names, an agreed location, and a clear version history make a document easier to use in practice.&lt;/p&gt;
+
+&lt;h2 id=&quot;walk-through-an-exception&quot;&gt;Walk through an exception&lt;/h2&gt;
+
+&lt;p&gt;A walkthrough should include an ordinary day and a day when something does not go as expected. Ask what happens if a required person is unavailable or a record is incomplete. Record the questions that emerge instead of resolving them through improvisation.&lt;/p&gt;
+
+&lt;p&gt;These discussions are preparation for a reviewed operating process. They do not replace the technical or specialist review a particular system may require.&lt;/p&gt;
+
+&lt;h2 id=&quot;close-with-a-review-point&quot;&gt;Close with a review point&lt;/h2&gt;
+
+&lt;p&gt;Assign an owner for maintaining the document and identify when it will be revisited. A responsibility map is useful only while it reflects how the team actually works.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/services/custody_architecture/&quot;&gt;Learn about custody architecture support&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+</feed>

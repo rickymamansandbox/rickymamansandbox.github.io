@@ -1,5 +1,16 @@
-<svg width="32" height="33" viewBox="0 0 32 33" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M22.246 3.72461C25.6049 3.72461 28.3278 6.42558 28.3278 9.7574C28.3278 13.0774 25.6241 15.7705 22.2817 15.7895H21.6866C19.9673 15.7895 18.4218 14.7408 17.7867 13.1431L15.3586 7.03511C15.1833 6.59403 14.559 6.59404 14.3837 7.03511L11.9554 13.1436C11.3204 14.7411 9.77532 15.7897 8.05623 15.79L6.93606 15.7902C4.84368 15.7902 3.14746 14.094 3.14746 12.0016V7.92133C3.14746 5.60354 5.0264 3.72461 7.34418 3.72461H22.246Z" fill="#BC9E50"/>
-<path d="M22.246 29.9551C25.6049 29.9551 28.3278 27.2541 28.3278 23.9223C28.3278 20.6023 25.6241 17.9092 22.2817 17.8901H21.6866C19.9673 17.8901 18.4218 18.9389 17.7867 20.5366L15.3586 26.6446C15.1833 27.0857 14.559 27.0857 14.3837 26.6446L11.9554 20.5361C11.3204 18.9386 9.77532 17.89 8.05623 17.8897L6.93606 17.8895C4.84368 17.8895 3.14746 19.5857 3.14746 21.6781V25.7584C3.14746 28.0761 5.0264 29.9551 7.34418 29.9551H22.246Z" fill="#BC9E50"/>
-<circle cx="14.6882" cy="16.5769" r="2.09836" fill="#2D2D4D"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="arkWood" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0" stop-color="#E9D7AC"/><stop offset="0.52" stop-color="#B8934E"/><stop offset="1" stop-color="#776545"/></linearGradient>
+    <linearGradient id="arkBeam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E8D5AA"/><stop offset="0.56" stop-color="#B8934E"/><stop offset="1" stop-color="#84683A"/></linearGradient>
+    <clipPath id="arkHull"><path d="M49 217Q49 199 67 189l162-69q27-12 54 0l162 69q18 10 18 28l-4 76q-6 118-203 176Q59 411 53 293Z"/></clipPath>
+    <filter id="arkDepth" x="-12%" y="-12%" width="124%" height="132%"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#172B4D" flood-opacity=".2"/></filter>
+  </defs>
+  <path d="M68 205 242 109q14-8 28 0l174 96v25H68Z" fill="#172B4D" stroke="#172B4D" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M72 194 247 102q9-5 18 0l175 92" fill="none" stroke="#172B4D" stroke-width="31" stroke-linecap="round" stroke-linejoin="round"/><path d="M72 194 247 102q9-5 18 0l175 92" fill="none" stroke="#B8934E" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m94 198 162-79 162 79" fill="none" stroke="#E7D4AB" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M120 178v30m64-66v56m144-56v56m64-20v30" fill="none" stroke="#172B4D" stroke-width="16" stroke-linecap="square"/><path d="M120 178v30m64-66v56m144-56v56m64-20v30" fill="none" stroke="#B8934E" stroke-width="8" stroke-linecap="square"/>
+  <path d="M49 217Q49 199 67 189l162-69q27-12 54 0l162 69q18 10 18 28l-4 76q-6 118-203 176Q59 411 53 293Z" fill="url(#arkWood)" stroke="#172B4D" stroke-width="14" filter="url(#arkDepth)"/>
+  <g clip-path="url(#arkHull)" fill="none" stroke-linecap="round"><path d="M53 258q203-82 406 0M55 301q201-78 402 0M61 344q195-75 390 0M72 385q184-70 368 0M91 422q165-64 330 0" stroke="#172B4D" stroke-width="7" opacity=".9"/><path d="M56 253q200-80 400 0M58 296q198-76 396 0M64 339q192-73 384 0M75 380q181-68 362 0M94 417q162-62 324 0" stroke="#E7D8B3" stroke-width="1.8" opacity=".8"/></g>
+  <path d="M55 211q201-102 402 0v34q-201-95-402 0Z" fill="url(#arkBeam)" stroke="#172B4D" stroke-width="10"/><path d="M62 216q194-91 388 0" fill="none" stroke="#E7D8B3" stroke-width="3" opacity=".8"/>
+  <path d="M232 82q0-14 14-14h16q14 0 14 14v382h-44Z" fill="url(#arkBeam)" stroke="#172B4D" stroke-width="11" stroke-linejoin="round"/><path d="M243 83v370" fill="none" stroke="#EFE1C2" stroke-width="4" opacity=".82"/><path d="M269 84v377" fill="none" stroke="#75613B" stroke-width="3" opacity=".6"/>
 </svg>

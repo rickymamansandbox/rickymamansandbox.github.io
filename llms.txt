@@ -1,0 +1,54 @@
+# Bahtera
+
+> Bahtera is a Bitcoin treasury consultancy for companies and leaders in Indonesia, Malaysia and Singapore, offering executive education, treasury policy, custody architecture, tax coordination and audit-ready reporting.
+
+Key facts:
+
+- Name: Bahtera (Institution-Level Bitcoin Consultancy)
+- What it does: helps companies, boards and leaders explore and implement a Bitcoin treasury, from executive education to treasury policy, custody architecture, regulatory/tax coordination and accounting/audit support. It also runs an educational programme for individuals.
+- Where: Indonesia, Malaysia, Singapore, with local consultants.
+- Team: Ricky Saif (corporate education), Faizal Abdillah (banking background), Banitama (software development). The team has used Bitcoin since 2013 and accumulated it since 2017.
+- Approach: education first, then a documented brief, policy and custody design, and a handover with named owners. Legal and tax conclusions stay with the client's own qualified advisers, and the individual programme is educational.
+- Website: https://rickymamansandbox.github.io/
+
+## Main pages
+
+- [Home](https://rickymamansandbox.github.io/): why companies are considering a Bitcoin treasury and how Bahtera's implementation process works
+- [About](https://rickymamansandbox.github.io/about/): Meet Bahtera, a team bringing together education, banking experience, and software development to support Bitcoin treasury implementation.
+- [Services](https://rickymamansandbox.github.io/services/): Bitcoin treasury education and implementation support, covering policy design, custody architecture, regulatory coordination, and reporting.
+- [Team](https://rickymamansandbox.github.io/team/): Meet the educators and practitioners behind Bahtera.
+- [Individual treasury education](https://rickymamansandbox.github.io/individual-treasury/): Explore Bitcoin treasury education for individuals, with room for practical questions and personal learning goals.
+- [Contact](https://rickymamansandbox.github.io/contact/): Prepare a conversation with Bahtera about company treasury, executive education, or individual learning.
+
+## Services
+
+- [Treasury Policy Design](https://rickymamansandbox.github.io/services/policy_design/): A documented framework for treasury decisions, responsibilities, and internal review.
+- [Custody Architecture](https://rickymamansandbox.github.io/services/custody_architecture/): Custody planning that connects technical design with everyday responsibilities.
+- [Accounting & Audit Support](https://rickymamansandbox.github.io/services/accounting_audit/): Operational records and reporting workflows designed for review with your finance team.
+- [Regulatory & Tax Guidance](https://rickymamansandbox.github.io/services/regulatory_guidance/): A structured way to identify questions and coordinate with your legal and tax advisers.
+
+## Team
+
+- [Ricky Saif](https://rickymamansandbox.github.io/team/ricky/): Corporate education
+- [Faizal Abdillah](https://rickymamansandbox.github.io/team/faizal/): Banking background
+- [Banitama](https://rickymamansandbox.github.io/team/banitama/): Software development
+
+## Bitcoin treasury questions
+
+- [How should we discuss Bitcoin alongside local money?](https://rickymamansandbox.github.io/myths/myth_1/): Start by identifying the question your organisation is actually trying to answer. A discussion about day-to-day payments is different from a discussion about treasury holdings.
+- [How do values shape the conversation?](https://rickymamansandbox.github.io/myths/myth_2/): People approach Bitcoin with different ethical, religious, and social perspectives. An education session should make room for those differences.
+- [What questions should financial professionals bring?](https://rickymamansandbox.github.io/myths/myth_3/): Experience in traditional finance can help a team ask detailed questions about responsibilities, records, and operational processes.
+- [Where should an individual begin?](https://rickymamansandbox.github.io/myths/myth_4/): Individual learning and organisational implementation involve different questions and different responsibilities.
+- [How can we structure a technology comparison?](https://rickymamansandbox.github.io/myths/myth_5/): A useful comparison begins with explicit criteria rather than a prediction about which technology will win.
+- [How should we discuss long-term uncertainty?](https://rickymamansandbox.github.io/myths/myth_6/): A treasury discussion needs room for uncertainty. A confident narrative alone is not an implementation plan.
+
+## Blog
+
+- [Before the treasury conversation, write the brief.](https://rickymamansandbox.github.io/blog/preparing-the-treasury-conversation/): A useful internal discussion starts with a shared question, a clear purpose, and the right people in the room.
+- [Make room for better questions.](https://rickymamansandbox.github.io/blog/planning-a-team-workshop/): A practical structure for a team learning session that ends with useful next steps.
+- [A process is only as clear as its handover.](https://rickymamansandbox.github.io/blog/documenting-operational-responsibilities/): How a simple responsibility map can make implementation discussions more concrete.
+
+## Optional
+
+- [Atom feed](https://rickymamansandbox.github.io/feed.xml)
+- [Sitemap](https://rickymamansandbox.github.io/sitemap.xml)

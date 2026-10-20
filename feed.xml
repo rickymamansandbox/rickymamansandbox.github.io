@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Bahtera blog</title>
-  <subtitle>Bahtera is a Bitcoin treasury consultancy for companies and leaders in Indonesia, Malaysia and Singapore, offering executive education, treasury policy, custody architecture, tax coordination and audit-ready reporting.</subtitle>
+  <subtitle>Bahtera is a Bitcoin treasury consultancy for companies and leaders across Asia, including Indonesia, Malaysia, Singapore, India and the Philippines, offering executive education, treasury policy, custody architecture, tax coordination and audit-ready reporting.</subtitle>
   <link href="https://rickymamansandbox.github.io/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://rickymamansandbox.github.io/blog/" rel="alternate" type="text/html"/>
   <id>https://rickymamansandbox.github.io/feed.xml</id>
-  <updated>2026-10-18T07:08:17+07:00</updated>
+  <updated>2026-10-20T08:45:41+07:00</updated>
   <author><name>Bahtera</name><uri>https://rickymamansandbox.github.io/</uri></author>
   <icon>https://rickymamansandbox.github.io/images/logo/logo-square.png</icon>
   <entry>
@@ -79,7 +79,7 @@
 
 &lt;p&gt;Ask which parts of the workshop were useful and which need more explanation. Use that feedback to choose the next topic. A sequence of focused conversations can be easier for a team to absorb than one crowded presentation.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/individual-treasury/&quot;&gt;Explore education for individuals&lt;/a&gt; or &lt;a href=&quot;/contact/&quot;&gt;prepare a team enquiry&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/contact/&quot;&gt;Prepare a team enquiry&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>

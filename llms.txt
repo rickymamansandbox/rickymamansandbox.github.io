@@ -1,14 +1,14 @@
 # Bahtera
 
-> Bahtera is a Bitcoin treasury consultancy for companies and leaders in Indonesia, Malaysia and Singapore, offering executive education, treasury policy, custody architecture, tax coordination and audit-ready reporting.
+> Bahtera is a Bitcoin treasury consultancy for companies and leaders across Asia, including Indonesia, Malaysia, Singapore, India and the Philippines, offering executive education, treasury policy, custody architecture, tax coordination and audit-ready reporting.
 
 Key facts:
 
 - Name: Bahtera (Institution-Level Bitcoin Consultancy)
-- What it does: helps companies, boards and leaders explore and implement a Bitcoin treasury, from executive education to treasury policy, custody architecture, regulatory/tax coordination and accounting/audit support. It also runs an educational programme for individuals.
-- Where: Indonesia, Malaysia, Singapore, with local consultants.
+- What it does: helps companies, boards and leaders explore and implement a Bitcoin treasury, from executive education to treasury policy, custody architecture, regulatory/tax coordination and accounting/audit support.
+- Where: Indonesia, Malaysia, Singapore, India, Philippines, with a founding team and local regional partners.
 - Team: Ricky Saif (corporate education), Faizal Abdillah (banking background), Banitama (software development). The team has used Bitcoin since 2013 and accumulated it since 2017.
-- Approach: education first, then a documented brief, policy and custody design, and a handover with named owners. Legal and tax conclusions stay with the client's own qualified advisers, and the individual programme is educational.
+- Approach: education first, then a documented brief, policy and custody design, and a handover with named owners. Legal and tax conclusions stay with the client's own qualified advisers.
 - Website: https://rickymamansandbox.github.io/
 
 ## Main pages
@@ -17,8 +17,7 @@ Key facts:
 - [About](https://rickymamansandbox.github.io/about/): Meet Bahtera, a team bringing together education, banking experience, and software development to support Bitcoin treasury implementation.
 - [Services](https://rickymamansandbox.github.io/services/): Bitcoin treasury education and implementation support, covering policy design, custody architecture, regulatory coordination, and reporting.
 - [Team](https://rickymamansandbox.github.io/team/): Meet the educators and practitioners behind Bahtera.
-- [Individual treasury education](https://rickymamansandbox.github.io/individual-treasury/): Explore Bitcoin treasury education for individuals, with room for practical questions and personal learning goals.
-- [Contact](https://rickymamansandbox.github.io/contact/): Prepare a conversation with Bahtera about company treasury, executive education, or individual learning.
+- [Contact](https://rickymamansandbox.github.io/contact/): Prepare a conversation with Bahtera about company treasury, executive education, or executive education.
 
 ## Services
 
@@ -32,13 +31,16 @@ Key facts:
 - [Ricky Saif](https://rickymamansandbox.github.io/team/ricky/): Corporate education
 - [Faizal Abdillah](https://rickymamansandbox.github.io/team/faizal/): Banking background
 - [Banitama](https://rickymamansandbox.github.io/team/banitama/): Software development
+- [Arjun Mehta](https://rickymamansandbox.github.io/team/arjun-mehta/): Regional partner, India (regional partner, India)
+- [Maria Santos](https://rickymamansandbox.github.io/team/maria-santos/): Regional partner, Philippines (regional partner, Philippines)
+- [Lim Wei Jie](https://rickymamansandbox.github.io/team/lim-wei-jie/): Regional partner, Malaysia (regional partner, Malaysia)
+- [Tan Mei Ling](https://rickymamansandbox.github.io/team/tan-mei-ling/): Regional partner, Singapore (regional partner, Singapore)
 
 ## Bitcoin treasury questions
 
 - [How should we discuss Bitcoin alongside local money?](https://rickymamansandbox.github.io/myths/myth_1/): Start by identifying the question your organisation is actually trying to answer. A discussion about day-to-day payments is different from a discussion about treasury holdings.
 - [How do values shape the conversation?](https://rickymamansandbox.github.io/myths/myth_2/): People approach Bitcoin with different ethical, religious, and social perspectives. An education session should make room for those differences.
 - [What questions should financial professionals bring?](https://rickymamansandbox.github.io/myths/myth_3/): Experience in traditional finance can help a team ask detailed questions about responsibilities, records, and operational processes.
-- [Where should an individual begin?](https://rickymamansandbox.github.io/myths/myth_4/): Individual learning and organisational implementation involve different questions and different responsibilities.
 - [How can we structure a technology comparison?](https://rickymamansandbox.github.io/myths/myth_5/): A useful comparison begins with explicit criteria rather than a prediction about which technology will win.
 - [How should we discuss long-term uncertainty?](https://rickymamansandbox.github.io/myths/myth_6/): A treasury discussion needs room for uncertainty. A confident narrative alone is not an implementation plan.
 

@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>&quot;If we lose the keys, it&#39;s gone.&quot; | Bahtera</title>
+<meta name="description" content="This is true if custody is poorly designed. With shared approvals, tested backups and written procedures, no single lost key, laptop or person can lock a company out.">
+<link rel="canonical" href="https://rickymamansandbox.github.io/myths/lose-the-keys-gone/">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="author" content="Bahtera">
+<meta name="theme-color" content="#172B4D">
+<link rel="alternate" type="application/atom+xml" title="Bahtera blog" href="/feed.xml">
+<link rel="sitemap" type="application/xml" href="/sitemap.xml">
+<link rel="apple-touch-icon" href="/images/logo/logo-square.png">
+
+<meta property="og:site_name" content="Bahtera">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="&quot;If we lose the keys, it&#39;s gone.&quot;">
+<meta property="og:description" content="This is true if custody is poorly designed. With shared approvals, tested backups and written procedures, no single lost key, laptop or person can lock a company out.">
+<meta property="og:url" content="https://rickymamansandbox.github.io/myths/lose-the-keys-gone/">
+<meta property="og:image" content="https://rickymamansandbox.github.io/images/og-image.png">
+<meta property="og:image:alt" content="Bahtera – Institution-Level Bitcoin Consultancy.">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="&quot;If we lose the keys, it&#39;s gone.&quot;">
+<meta name="twitter:description" content="This is true if custody is poorly designed. With shared approvals, tested backups and written procedures, no single lost key, laptop or person can lock a company out.">
+<meta name="twitter:image" content="https://rickymamansandbox.github.io/images/og-image.png"><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://rickymamansandbox.github.io/#organization",
+      "name": "Bahtera",
+      "url": "https://rickymamansandbox.github.io/",
+      "slogan": "Institution-Level Bitcoin Consultancy.",
+      "description": "Bahtera is a Bitcoin treasury consultancy for companies and leaders across Asia, including Indonesia, Malaysia, Singapore, India and the Philippines, offering executive education, treasury policy, custody architecture, tax coordination and audit-ready reporting.",
+      "logo": { "@type": "ImageObject", "url": "https://rickymamansandbox.github.io/images/logo/logo-square.png", "width": 512, "height": 512 },
+      "image": "https://rickymamansandbox.github.io/images/og-image.png",
+      "areaServed": [{ "@type": "Country", "name": "Indonesia" }, { "@type": "Country", "name": "Malaysia" }, { "@type": "Country", "name": "Singapore" }, { "@type": "Country", "name": "India" }, { "@type": "Country", "name": "Philippines" }],
+      "knowsAbout": ["Bitcoin","Bitcoin treasury","Corporate treasury management","Treasury policy design","Bitcoin custody (multisig and cold storage)","Bitcoin accounting and audit","Executive Bitcoin education"],
+      "employee": [{ "@id": "https://rickymamansandbox.github.io/team/ricky/#person" }, { "@id": "https://rickymamansandbox.github.io/team/faizal/#person" }, { "@id": "https://rickymamansandbox.github.io/team/banitama/#person" }, { "@id": "https://rickymamansandbox.github.io/team/arjun-mehta/#person" }, { "@id": "https://rickymamansandbox.github.io/team/maria-santos/#person" }, { "@id": "https://rickymamansandbox.github.io/team/lim-wei-jie/#person" }, { "@id": "https://rickymamansandbox.github.io/team/tan-mei-ling/#person" }],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Bitcoin treasury services",
+        "itemListElement": [{ "@type": "Offer", "itemOffered": { "@id": "https://rickymamansandbox.github.io/services/policy_design/#service" } }, { "@type": "Offer", "itemOffered": { "@id": "https://rickymamansandbox.github.io/services/custody_architecture/#service" } }, { "@type": "Offer", "itemOffered": { "@id": "https://rickymamansandbox.github.io/services/accounting_audit/#service" } }, { "@type": "Offer", "itemOffered": { "@id": "https://rickymamansandbox.github.io/services/regulatory_guidance/#service" } }]
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://rickymamansandbox.github.io/services/policy_design/#service",
+      "name": "Treasury Policy Design",
+      "serviceType": "Treasury Policy Design",
+      "description": "A documented framework for treasury decisions, responsibilities, and internal review.",
+      "url": "https://rickymamansandbox.github.io/services/policy_design/",
+      "provider": { "@id": "https://rickymamansandbox.github.io/#organization" },
+      "areaServed": [{ "@type": "Country", "name": "Indonesia" }, { "@type": "Country", "name": "Malaysia" }, { "@type": "Country", "name": "Singapore" }, { "@type": "Country", "name": "India" }, { "@type": "Country", "name": "Philippines" }]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://rickymamansandbox.github.io/services/custody_architecture/#service",
+      "name": "Custody Architecture",
+      "serviceType": "Custody Architecture",
+      "description": "Custody planning that connects technical design with everyday responsibilities.",
+      "url": "https://rickymamansandbox.github.io/services/custody_architecture/",
+      "provider": { "@id": "https://rickymamansandbox.github.io/#organization" },
+      "areaServed": [{ "@type": "Country", "name": "Indonesia" }, { "@type": "Country", "name": "Malaysia" }, { "@type": "Country", "name": "Singapore" }, { "@type": "Country", "name": "India" }, { "@type": "Country", "name": "Philippines" }]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://rickymamansandbox.github.io/services/accounting_audit/#service",
+      "name": "Accounting & Audit Support",
+      "serviceType": "Accounting & Audit Support",
+      "description": "Operational records and reporting workflows designed for review with your finance team.",
+      "url": "https://rickymamansandbox.github.io/services/accounting_audit/",
+      "provider": { "@id": "https://rickymamansandbox.github.io/#organization" },
+      "areaServed": [{ "@type": "Country", "name": "Indonesia" }, { "@type": "Country", "name": "Malaysia" }, { "@type": "Country", "name": "Singapore" }, { "@type": "Country", "name": "India" }, { "@type": "Country", "name": "Philippines" }]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://rickymamansandbox.github.io/services/regulatory_guidance/#service",
+      "name": "Regulatory & Tax Guidance",
+      "serviceType": "Regulatory & Tax Guidance",
+      "description": "A structured way to identify questions and coordinate with your legal and tax advisers.",
+      "url": "https://rickymamansandbox.github.io/services/regulatory_guidance/",
+      "provider": { "@id": "https://rickymamansandbox.github.io/#organization" },
+      "areaServed": [{ "@type": "Country", "name": "Indonesia" }, { "@type": "Country", "name": "Malaysia" }, { "@type": "Country", "name": "Singapore" }, { "@type": "Country", "name": "India" }, { "@type": "Country", "name": "Philippines" }]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://rickymamansandbox.github.io/team/ricky/#person",
+      "name": "Ricky Saif",
+      "jobTitle": "Corporate education",
+      "description": "Ricky Saif has educated corporations since 2013, focusing today on exposing The Fiat Flood crisis – where inflation silently drains cash reserves while traditional assets fail. Ricky empowers pragmatic leaders to adopt Bitcoin treasuries as an inflation-proof solution. He works exclusively with e...",
+      "url": "https://rickymamansandbox.github.io/team/ricky/",
+      "image": "https://rickymamansandbox.github.io/images/team/ricky.svg",
+      "worksFor": { "@id": "https://rickymamansandbox.github.io/#organization" },
+      "knowsAbout": ["Bitcoin", "Bitcoin treasury"]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://rickymamansandbox.github.io/team/faizal/#person",
+      "name": "Faizal Abdillah",
+      "jobTitle": "Banking background",
+      "description": "Faizal Abdillah professional journey began in the banking sector, where he gained firsthand insight into traditional finance. The discovery of Bitcoin—a technology with the potential to render banks obsolete—sparked a deep curiosity. As he delved further, he came to believe that many societal iss...",
+      "url": "https://rickymamansandbox.github.io/team/faizal/",
+      "image": "https://rickymamansandbox.github.io/images/team/faizal.svg",
+      "worksFor": { "@id": "https://rickymamansandbox.github.io/#organization" },
+      "knowsAbout": ["Bitcoin", "Bitcoin treasury"]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://rickymamansandbox.github.io/team/banitama/#person",
+      "name": "Banitama",
+      "jobTitle": "Software development",
+      "description": "Banitama is a software developer and Bitcoin advocate who began using BTC in 2014—initially unaware of its revolutionary potential until discovering The Bitcoin Standard in 2018, which unlocked his deep dive into monetary history and economics. Now based in Sweden (home of the world’s first centr...",
+      "url": "https://rickymamansandbox.github.io/team/banitama/",
+      "image": "https://rickymamansandbox.github.io/images/team/banitama.svg",
+      "worksFor": { "@id": "https://rickymamansandbox.github.io/#organization" },
+      "knowsAbout": ["Bitcoin", "Bitcoin treasury"]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://rickymamansandbox.github.io/team/arjun-mehta/#person",
+      "name": "Arjun Mehta",
+      "jobTitle": "Regional partner, India",
+      "description": "Arjun Mehta is a placeholder profile for Bahtera’s regional partner in India. He will support Indian companies and family offices with executive education, treasury policy discussions and coordination with local tax and accounting advisers. This page is a dummy profile and will be replaced with t...",
+      "url": "https://rickymamansandbox.github.io/team/arjun-mehta/",
+      "image": "https://rickymamansandbox.github.io/images/team/arjun-mehta.svg",
+      "worksFor": { "@id": "https://rickymamansandbox.github.io/#organization" },
+      "knowsAbout": ["Bitcoin", "Bitcoin treasury"]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://rickymamansandbox.github.io/team/maria-santos/#person",
+      "name": "Maria Santos",
+      "jobTitle": "Regional partner, Philippines",
+      "description": "Maria Santos is a placeholder profile for Bahtera’s regional partner in the Philippines. She will help Filipino businesses and leaders explore Bitcoin treasury through executive education and practical, locally-aware implementation support. This page is a dummy profile and will be replaced with t...",
+      "url": "https://rickymamansandbox.github.io/team/maria-santos/",
+      "image": "https://rickymamansandbox.github.io/images/team/maria-santos.svg",
+      "worksFor": { "@id": "https://rickymamansandbox.github.io/#organization" },
+      "knowsAbout": ["Bitcoin", "Bitcoin treasury"]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://rickymamansandbox.github.io/team/lim-wei-jie/#person",
+      "name": "Lim Wei Jie",
+      "jobTitle": "Regional partner, Malaysia",
+      "description": "Lim Wei Jie is a placeholder profile for Bahtera’s regional partner in Malaysia. He will work with Malaysian companies on treasury education, policy design and the operational readiness of their finance teams. This page is a dummy profile and will be replaced with the partner’s real background on...",
+      "url": "https://rickymamansandbox.github.io/team/lim-wei-jie/",
+      "image": "https://rickymamansandbox.github.io/images/team/lim-wei-jie.svg",
+      "worksFor": { "@id": "https://rickymamansandbox.github.io/#organization" },
+      "knowsAbout": ["Bitcoin", "Bitcoin treasury"]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://rickymamansandbox.github.io/team/tan-mei-ling/#person",
+      "name": "Tan Mei Ling",
+      "jobTitle": "Regional partner, Singapore",
+      "description": "Tan Mei Ling is a placeholder profile for Bahtera’s regional partner in Singapore. She will support Singapore-based institutions with custody architecture discussions and audit-ready reporting conversations. This page is a dummy profile and will be replaced with the partner’s real background once...",
+      "url": "https://rickymamansandbox.github.io/team/tan-mei-ling/",
+      "image": "https://rickymamansandbox.github.io/images/team/tan-mei-ling.svg",
+      "worksFor": { "@id": "https://rickymamansandbox.github.io/#organization" },
+      "knowsAbout": ["Bitcoin", "Bitcoin treasury"]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://rickymamansandbox.github.io/#website",
+      "url": "https://rickymamansandbox.github.io/",
+      "name": "Bahtera",
+      "description": "Bahtera is a Bitcoin treasury consultancy for companies and leaders across Asia, including Indonesia, Malaysia, Singapore, India and the Philippines, offering executive education, treasury policy, custody architecture, tax coordination and audit-ready reporting.",
+      "inLanguage": "en",
+      "publisher": { "@id": "https://rickymamansandbox.github.io/#organization" }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://rickymamansandbox.github.io/myths/lose-the-keys-gone/#webpage",
+      "url": "https://rickymamansandbox.github.io/myths/lose-the-keys-gone/",
+      "name": "\"If we lose the keys, it's gone.\" | Bahtera",
+      "description": "This is true if custody is poorly designed. With shared approvals, tested backups and written procedures, no single lost key, laptop or person can lock a company out.",
+      "inLanguage": "en",
+      "isPartOf": { "@id": "https://rickymamansandbox.github.io/#website" },
+      "about": { "@id": "https://rickymamansandbox.github.io/#organization" },
+      "primaryImageOfPage": { "@type": "ImageObject", "url": "https://rickymamansandbox.github.io/images/og-image.png" },
+      "dateModified": "2026-10-21T00:00:00+07:00",
+      "breadcrumb": { "@id": "https://rickymamansandbox.github.io/myths/lose-the-keys-gone/#breadcrumb" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://rickymamansandbox.github.io/myths/lose-the-keys-gone/#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rickymamansandbox.github.io/" },
+        { "@type": "ListItem", "position": 2, "name": "Myth Busting", "item": "https://rickymamansandbox.github.io/myths/" },
+        { "@type": "ListItem", "position": 3, "name": "\"If we lose the keys, it's gone.\"", "item": "https://rickymamansandbox.github.io/myths/lose-the-keys-gone/" }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://rickymamansandbox.github.io/myths/lose-the-keys-gone/#article",
+      "headline": "\"If we lose the keys, it's gone.\"",
+      "description": "This is true if custody is poorly designed. With shared approvals, tested backups and written procedures, no single lost key, laptop or person can lock a company out.",
+      "url": "https://rickymamansandbox.github.io/myths/lose-the-keys-gone/",
+      "mainEntityOfPage": { "@id": "https://rickymamansandbox.github.io/myths/lose-the-keys-gone/#webpage" },
+      "dateModified": "2026-10-21T00:00:00+07:00",
+      "wordCount": 326,
+      "inLanguage": "en",
+      "author": { "@id": "https://rickymamansandbox.github.io/team/banitama/#person" },
+      "publisher": { "@id": "https://rickymamansandbox.github.io/#organization" }
+    }
+  ]
+}
+</script>
+
+  <link rel="icon" type="image/svg+xml" href="/images/favicon-32x32.svg?v=4">
+  <!-- Google Fonts CDN -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+  <!-- Self host font -->
+  <!-- <link rel="preload" href="/assets/fonts/playfair-display.woff2" as="font" type="font/woff2" crossorigin> -->
+  <link href="/assets/css/style.css" rel="stylesheet">
+</head>
+
+<body class='page page-myth'>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <nav aria-label="Mobile navigation" id="main-menu-mobile" class="main-menu-mobile">
+  
+  <ul>
+    
+    <li class="">
+      <a href="/about/" >About</a>
+    </li>
+    
+    <li class="">
+      <a href="/services/" >Services</a>
+    </li>
+    
+    <li class="">
+      <a href="/guides/" >Guides</a>
+    </li>
+    
+    <li class="active">
+      <a href="/myths/" aria-current="page">Myth Busting</a>
+    </li>
+    
+    <li class="">
+      <a href="/team/" >Team</a>
+    </li>
+    
+    <li class="">
+      <a href="/blog/" >Blog</a>
+    </li>
+    
+    <li class="">
+      <a href="/contact/" >Contact</a>
+    </li>
+    
+  </ul>
+</nav>
+
+  <div id="wrapper" class="wrapper">
+    <div class='header fixed-top'>
+  <div class="container">
+    <div class="logo">
+      <a href="/"><img height="43px" alt="Bahtera" src="/images/logo/logo.svg?v=4" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="/"><img height="40px" alt="Bahtera" src="/images/logo/logo-mobile.svg?v=4" /></a>
+    </div>
+    <nav aria-label="Main navigation" id="main-menu" class="main-menu">
+  
+  <ul>
+    
+    <li class="">
+      <a href="/about/" >About</a>
+    </li>
+    
+    <li class="">
+      <a href="/services/" >Services</a>
+    </li>
+    
+    <li class="">
+      <a href="/guides/" >Guides</a>
+    </li>
+    
+    <li class="active">
+      <a href="/myths/" aria-current="page">Myth Busting</a>
+    </li>
+    
+    <li class="">
+      <a href="/team/" >Team</a>
+    </li>
+    
+    <li class="">
+      <a href="/blog/" >Blog</a>
+    </li>
+    
+    <li class="">
+      <a href="/contact/" >Contact</a>
+    </li>
+    
+  </ul>
+</nav>
+
+    <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button" aria-label="Open menu" aria-controls="main-menu-mobile" aria-expanded="false">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+  </div>
+</div>
+
+    <main id="main-content" tabindex="-1"><header class="page-heading container"><a class="eyebrow" href="/myths/">&larr; All myths</a><p class="post-meta">Myth 9 &middot; 2 min read</p><h1>"If we lose the keys, it's gone."</h1><p class="post-meta author-line">By <a href="/team/banitama/">Banitama</a> &middot; Reviewed by <a href="/team/ricky/">Ricky Saif</a> &middot; Updated <time datetime="2026-10-21T00:00:00+07:00">October 21, 2026</time></p>
+</header>
+<aside class="example-banner container" role="note"><strong>Example draft.</strong> This page shows the planned format. The author will replace it with their own words and experience before it is final.</aside>
+
+<div class="container"><div class="answer-box"><span class="eyebrow">The short answer</span><p>This is true if custody is poorly designed. With shared approvals, tested backups and written procedures, no single lost key, laptop or person can lock a company out.</p></div></div>
+<article class="container content article-prose"><h2 id="what-people-are-really-asking">What people are really asking</h2>
+
+<p>With Bitcoin there is no help desk. If the access is lost, nobody can reset the password. Executives picture a lost device or a departed colleague and the entire treasury locked away.</p>
+
+<h2 id="what-is-true-in-the-myth">What is true in the myth</h2>
+
+<p>Control of Bitcoin means control of the private keys. Lose them, with no backup, and the coins are unrecoverable. That is the cost of an asset with no central authority, and it is a serious operational risk. Many individual holders have learned this the hard way.</p>
+
+<h2 id="where-the-myth-breaks-down">Where the myth breaks down</h2>
+
+<p>A company does not need to rely on one key held by one person. The standard answer is multi-signature custody: for example, any three of five keys are needed to approve a payment. Keys sit in different places and with different people. Any one can be lost, and the funds still move. Any one can be stolen, and the thief gets nothing.</p>
+
+<p>It is the same logic companies already use with a safe and two signatories on a bank mandate. We are translating familiar controls into a new system, not inventing a new kind of risk.</p>
+
+<h2 id="what-a-resilient-setup-includes">What a resilient setup includes</h2>
+
+<ol>
+  <li><strong>Several keys, in separate places and held by separate people.</strong></li>
+  <li><strong>A threshold that survives loss.</strong> If you need three of five, two can disappear and the company still has access.</li>
+  <li><strong>Written procedures.</strong> Who approves, who signs, what happens when someone resigns.</li>
+  <li><strong>Backups kept offline and checked.</strong> Keep copies in separate locations and verify them on a schedule.</li>
+  <li><strong>A recovery drill.</strong> Move a small amount, restore from the backup and confirm it works before any large amount moves.</li>
+  <li><strong>Succession.</strong> Name who inherits each role, and review it when people change.</li>
+</ol>
+
+<h2 id="what-we-do-with-your-team">What we do with your team</h2>
+
+<p>We help you choose the structure, document the procedures and rehearse the recovery. If a company prefers to hand custody to a regulated provider, we explain the trade-offs, since that moves some risks and adds others.</p>
+</article>
+
+<aside class="container related-posts"><span class="eyebrow">Go deeper</span><div class="card-grid"><a class="profile-card" href="/guides/custody-options/"><span class="eyebrow">Guide</span><h2>Custody options: multisig vs custodian</h2><span>Read the guide &rarr;</span></a><a class="profile-card" href="https://calendar.app.google/ZdxecGuBL7aTY2HK6" target="_blank" rel="noopener noreferrer"><span class="eyebrow">Talk to us</span><h2>Book a free 15-minute introduction call</h2><span>Open booking &rarr;</span></a></div></aside>
+<aside class="section-cta container">
+  <div><span class="eyebrow">Start with a conversation</span><h2>Bring clarity to your next step.</h2><p>Explore the right education and implementation support for your team.</p></div>
+  <a class="button" href="/contact/">Discuss your needs <span aria-hidden="true">&rarr;</span></a>
+</aside>
+
+</main>
+  </div>
+  <div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          <div class="logo-footer">
+            <a href="/"><img height="43px" alt="Bahtera" src="/images/logo/logo-footer.svg?v=4" /></a>
+            <p class="brand-tagline">Institution-Level Bitcoin Consultancy.</p>
+            <p class="brand-regions">Indonesia &middot; Malaysia &middot; Singapore &middot; India &middot; Philippines</p>
+          </div>
+          <ul>
+            
+            
+            <li class="">
+              <a href="/guides/">Guides</a>
+            </li>
+            
+            <li class="">
+              <a href="/myths/">Myth Busting</a>
+            </li>
+            
+            <li class="">
+              <a href="/blog/">Blog</a>
+            </li>
+            
+            <li class="">
+              <a href="/contact/">Contact</a>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="sub-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="sub-footer-inner">
+          
+            <div class="social">
+  
+</div>
+
+          
+          
+          <div class="copyright">&copy; 2026 PT. Bahtera Tujuan Cemerlang. All rights reserved.</div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  <script type="text/javascript" src="/assets/js/scripts.js"></script>
+  
+</body>
+</html>

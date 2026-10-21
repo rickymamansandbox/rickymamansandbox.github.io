@@ -36,13 +36,26 @@ Key facts:
 - [Lim Wei Jie](https://rickymamansandbox.github.io/team/lim-wei-jie/): Regional partner, Malaysia (regional partner, Malaysia)
 - [Tan Mei Ling](https://rickymamansandbox.github.io/team/tan-mei-ling/): Regional partner, Singapore (regional partner, Singapore)
 
+## Guides
+
+- [Bitcoin treasury policy: what to put in it](https://rickymamansandbox.github.io/guides/treasury-policy/): A one-page policy is the control that makes everything else defensible. This guide lists what it should say, with an illustrative template your board and auditors can work from.
+- [Accounting and audit for Bitcoin holdings](https://rickymamansandbox.github.io/guides/accounting-and-audit/): Auditors will ask who controls the asset, how it is valued and how it is disclosed. This guide shows what evidence to prepare so year-end is routine.
+- [Getting board approval: a checklist](https://rickymamansandbox.github.io/guides/board-approval/): Boards approve clear, capped and reversible proposals. This checklist covers the decision paper, the questions directors ask and how to run the meeting.
+- [Running a leadership education session](https://rickymamansandbox.github.io/guides/leadership-session/): A 90-minute session that ends in named owners and next steps. This guide gives the agenda, the questions to collect beforehand and how to close.
+- [Custody options: multisig vs custodian](https://rickymamansandbox.github.io/guides/custody-options/): How your company holds Bitcoin matters more than what it holds. This guide compares self-custody with shared approvals and regulated custodians, and helps you choose for your risk level.
+
 ## Myth busting: how we respond to common Bitcoin myths
 
-- [How should we discuss Bitcoin alongside local money?](https://rickymamansandbox.github.io/myths/myth_1/): Start by identifying the question your organisation is actually trying to answer. A discussion about day-to-day payments is different from a discussion about treasury holdings.
-- [How do values shape the conversation?](https://rickymamansandbox.github.io/myths/myth_2/): People approach Bitcoin with different ethical, religious, and social perspectives. An education session should make room for those differences.
-- [What questions should financial professionals bring?](https://rickymamansandbox.github.io/myths/myth_3/): Experience in traditional finance can help a team ask detailed questions about responsibilities, records, and operational processes.
-- [How can we structure a technology comparison?](https://rickymamansandbox.github.io/myths/myth_5/): A useful comparison begins with explicit criteria rather than a prediction about which technology will win.
-- [How should we discuss long-term uncertainty?](https://rickymamansandbox.github.io/myths/myth_6/): A treasury discussion needs room for uncertainty. A confident narrative alone is not an implementation plan.
+- ["It's too late; Bitcoin is a bubble."](https://rickymamansandbox.github.io/myths/too-late-bubble/): Price and adoption are different questions. A bubble needs a reason to disappear; Bitcoin has a fixed supply and a growing base of holders, which is why the better question is how much risk you can live with, not whether you missed it.
+- ["Inflation is under control; our cash is fine."](https://rickymamansandbox.github.io/myths/inflation-under-control/): Cash loses purchasing power every year even when inflation is low. Low inflation is slower erosion, not none, and idle reserves are where it quietly adds up.
+- ["Our board will never approve this."](https://rickymamansandbox.github.io/myths/board-will-never-approve/): Boards do not reject Bitcoin; they reject unclear risk. A short decision paper with limits, custody, accounting and an exit rule answers most of what a board asks.
+- ["It's too volatile for a company treasury."](https://rickymamansandbox.github.io/myths/too-volatile-for-treasury/): Volatility is real, and it is a reason to size the position, not to ignore the asset. The sensible response is a capped allocation, a long time horizon and written limits.
+- ["Gold is the safer hedge."](https://rickymamansandbox.github.io/myths/gold-is-the-safer-hedge/): Gold has the longest track record as a store of value, and for that reason it is hard to beat. Bitcoin is not a replacement; it differs on supply, portability and verification, and the sensible comparison is what each protects you from.
+- ["We can't audit or account for it."](https://rickymamansandbox.github.io/myths/cannot-audit-or-account/): Companies already audit and report Bitcoin holdings. The work is in valuation, proof of ownership and disclosure, and accounting standards now cover it directly in several jurisdictions.
+- ["Regulators won't allow companies to hold it."](https://rickymamansandbox.github.io/myths/regulators-will-not-allow/): In most markets a company may hold Bitcoin; the rules usually target the platforms that trade and store it. Because rules differ by country and change often, the right step is a checklist for your own lawyer, not a yes or no.
+- ["Bitcoin gets hacked."](https://rickymamansandbox.github.io/myths/bitcoin-gets-hacked/): The Bitcoin network itself has not been broken. The losses people read about came from exchanges, wallets and people, which is why custody design matters more than the technology.
+- ["If we lose the keys, it's gone."](https://rickymamansandbox.github.io/myths/lose-the-keys-gone/): This is true if custody is poorly designed. With shared approvals, tested backups and written procedures, no single lost key, laptop or person can lock a company out.
+- ["Bitcoin wastes energy."](https://rickymamansandbox.github.io/myths/bitcoin-wastes-energy/): Bitcoin mining uses a lot of electricity by design, because that cost is what secures the network. Whether it is waste depends on the energy source and on what you compare it with, and both are worth looking at with real numbers.
 
 ## Blog
 

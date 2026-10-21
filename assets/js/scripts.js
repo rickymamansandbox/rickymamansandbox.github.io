@@ -32,3 +32,16 @@
   });
   window.addEventListener('resize', function () { if (window.innerWidth >= 992) setOpen(false); });
 })();
+
+(function () {
+  var items = document.querySelectorAll('.main-menu .has-sub');
+  items.forEach(function (li) {
+    var btn = li.querySelector('.sub-toggle');
+    function set(open) { li.classList.toggle('open', open); btn.setAttribute('aria-expanded', String(open)); }
+    btn.addEventListener('click', function () { set(!li.classList.contains('open')); });
+    li.addEventListener('mouseenter', function () { btn.setAttribute('aria-expanded', 'true'); });
+    li.addEventListener('mouseleave', function () { btn.setAttribute('aria-expanded', String(li.classList.contains('open'))); });
+    li.addEventListener('keydown', function (e) { if (e.key === 'Escape') { set(false); btn.focus(); } });
+  });
+  document.addEventListener('click', function (e) { items.forEach(function (li) { if (!li.contains(e.target)) { li.classList.remove('open'); li.querySelector('.sub-toggle').setAttribute('aria-expanded', 'false'); } }); });
+})();

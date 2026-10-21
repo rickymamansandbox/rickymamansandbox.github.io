@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>Bahtera blog</title>
+  <title>Bahtera news</title>
   <subtitle>Bahtera is a Bitcoin treasury consultancy for companies and leaders across Asia, including Indonesia, Malaysia, Singapore, India and the Philippines, offering executive education, treasury policy, custody architecture, tax coordination and audit-ready reporting.</subtitle>
   <link href="https://rickymamansandbox.github.io/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://rickymamansandbox.github.io/blog/" rel="alternate" type="text/html"/>
   <id>https://rickymamansandbox.github.io/feed.xml</id>
-  <updated>2026-10-22T00:13:19+07:00</updated>
+  <updated>2026-10-22T05:53:03+07:00</updated>
   <author><name>Bahtera</name><uri>https://rickymamansandbox.github.io/</uri></author>
   <icon>https://rickymamansandbox.github.io/images/logo/logo-square.png</icon>
   <entry>

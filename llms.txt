@@ -57,7 +57,7 @@ Key facts:
 - ["If we lose the keys, it's gone."](https://rickymamansandbox.github.io/myths/lose-the-keys-gone/): This is true if custody is poorly designed. With shared approvals, tested backups and written procedures, no single lost key, laptop or person can lock a company out.
 - ["Bitcoin wastes energy."](https://rickymamansandbox.github.io/myths/bitcoin-wastes-energy/): Bitcoin mining uses a lot of electricity by design, because that cost is what secures the network. Whether it is waste depends on the energy source and on what you compare it with, and both are worth looking at with real numbers.
 
-## Blog
+## News
 
 - [Before the treasury conversation, write the brief.](https://rickymamansandbox.github.io/blog/preparing-the-treasury-conversation/): A useful internal discussion starts with a shared question, a clear purpose, and the right people in the room.
 - [Make room for better questions.](https://rickymamansandbox.github.io/blog/planning-a-team-workshop/): A practical structure for a team learning session that ends with useful next steps.

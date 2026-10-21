@@ -36,7 +36,7 @@ Key facts:
 - [Lim Wei Jie](https://rickymamansandbox.github.io/team/lim-wei-jie/): Regional partner, Malaysia (regional partner, Malaysia)
 - [Tan Mei Ling](https://rickymamansandbox.github.io/team/tan-mei-ling/): Regional partner, Singapore (regional partner, Singapore)
 
-## Bitcoin treasury questions
+## Myth busting: how we respond to common Bitcoin myths
 
 - [How should we discuss Bitcoin alongside local money?](https://rickymamansandbox.github.io/myths/myth_1/): Start by identifying the question your organisation is actually trying to answer. A discussion about day-to-day payments is different from a discussion about treasury holdings.
 - [How do values shape the conversation?](https://rickymamansandbox.github.io/myths/myth_2/): People approach Bitcoin with different ethical, religious, and social perspectives. An education session should make room for those differences.

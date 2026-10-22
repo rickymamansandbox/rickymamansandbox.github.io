@@ -1,0 +1,35 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<title id="t">An ark riding rising water under a rain of coins</title>
+<desc id="d">A wooden ark floats on dark waves while gold coins fall like rain from a large Bitcoin coin in the sky.</desc>
+<defs><clipPath id="panel"><rect x="20" y="20" width="460" height="460" rx="28"/></clipPath></defs>
+<g clip-path="url(#panel)">
+<rect x="20" y="20" width="460" height="460" fill="#efe8d8"/>
+<circle cx="372" cy="124" r="92" fill="#e6d9b8"/>
+<circle cx="372" cy="124" r="58" fill="#b18d54"/>
+<circle cx="372" cy="124" r="46" stroke="#e2c98f" stroke-width="3"/>
+<g stroke="#6e5222" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M358 98V150M376 98V150M352 106H380a13 13 0 0 1 0 26H352M352 132H382a13 13 0 0 1 0 26H352"/>
+</g>
+<g fill="#b18d54">
+<circle cx="96" cy="86" r="9"/><circle cx="150" cy="132" r="7"/><circle cx="214" cy="84" r="8"/><circle cx="262" cy="156" r="6"/><circle cx="112" cy="196" r="6"/><circle cx="198" cy="206" r="9"/><circle cx="302" cy="214" r="7"/><circle cx="426" cy="236" r="8"/><circle cx="62" cy="252" r="7"/>
+</g>
+<g stroke="#b18d54" stroke-width="2" opacity=".45" stroke-linecap="round">
+<path d="M96 54V70M150 106V120M214 54V70M262 134V146M112 176V186M198 176V192M302 194V204M426 208V222M62 232V242"/>
+</g>
+<path d="M20 322Q70 300 120 322T220 322T320 322T420 322T520 322V480H20Z" fill="#2b4670" opacity=".4"/>
+<g>
+<path d="M104 306H396Q380 372 330 380H170Q120 372 104 306Z" fill="#172b4d"/>
+<rect x="104" y="296" width="292" height="12" rx="3" fill="#b18d54"/>
+<rect x="176" y="232" width="148" height="66" fill="#b18d54"/>
+<g stroke="#8f6f3a" stroke-width="2" opacity=".7"><path d="M176 254H324M176 276H324"/><path d="M213 232V298M250 232V298M287 232V298"/></g>
+<path d="M160 238L250 182L340 238Z" fill="#172b4d"/>
+<rect x="196" y="256" width="20" height="26" rx="10" fill="#172b4d"/><rect x="240" y="256" width="20" height="26" rx="10" fill="#172b4d"/><rect x="284" y="256" width="20" height="26" rx="10" fill="#172b4d"/>
+<path d="M250 182V156" stroke="#172b4d" stroke-width="5" stroke-linecap="round"/>
+<path d="M250 158L276 168L250 178Z" fill="#b18d54"/>
+</g>
+<path d="M20 352Q70 330 120 352T220 352T320 352T420 352T520 352V480H20Z" fill="#172b4d" opacity=".85"/>
+<path d="M20 394Q70 372 120 394T220 394T320 394T420 394T520 394V480H20Z" fill="#172b4d"/>
+<g fill="#b18d54"><ellipse cx="86" cy="410" rx="14" ry="5"/><ellipse cx="402" cy="372" rx="12" ry="4"/><ellipse cx="300" cy="432" rx="16" ry="5"/><ellipse cx="170" cy="448" rx="12" ry="4"/></g>
+</g>
+<rect x="20.75" y="20.75" width="458.5" height="458.5" rx="27.5" stroke="#d7cfbd" stroke-width="1.5"/>
+</svg>
